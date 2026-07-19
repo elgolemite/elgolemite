@@ -87,16 +87,6 @@ Duplicate this section whenever you add a major project.
 </details>
 ---
 
-# 🏆 Achievements
-
-| Achievement | Event or Organisation | Year | Evidence |
-|---|---|---:|---|
-| Champion | UiTM UCC Cyberheroes Internal CTF | 2026 | [View achievement](LINK) |
-| Completed Security Lab | Platform Name | 2026 | [View profile](LINK) |
-| Project Presentation | Organisation or University | 2026 | [View project](LINK) |
-
----
-
 # 📫 Connect With Me
 
 | Platform | Link |
