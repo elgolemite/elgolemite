@@ -39,16 +39,6 @@ I enjoy solving security challenges, investigating attacks, developing security 
 
 ---
 
-# 📂 Work and Project Index
-
-| Project | Category | Workflow Summary | Tools | Tags | Status |
-|---|---|---|---|---|---|
-| [CTF Writeups](https://github.com/elgolemite/CTF-Writeups) | CTF | Enumeration → Exploitation → Flag → Remediation → Write-up | Burp Suite, Nmap, Python, Ghidra | ![CTF](https://img.shields.io/badge/CTF-red?style=flat-square) ![Web](https://img.shields.io/badge/Web-blue?style=flat-square) ![Forensics](https://img.shields.io/badge/Forensics-purple?style=flat-square) ![Reverse](https://img.shields.io/badge/Reverse-orange?style=flat-square) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
-| [Penetration Testing Web Crawler](https://github.com/elgolemite/fyp-project-degree) | Final-Year Project | Crawl → Extract → Analyse → Prioritise → Report | Python, Web Crawling, Automation | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-orange?style=flat-square) ![Pentesting](https://img.shields.io/badge/Pentesting-red?style=flat-square) | ![Completed](https://img.shields.io/badge/Status-Completed-blue?style=flat-square) |
-| [Portfolio Website](https://elgolemite.github.io) | Portfolio | Design → Build → Publish → Maintain | HTML, CSS, JavaScript | ![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=flat-square) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=github&logoColor=white) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) |
-
----
-
 ## 🏷️ Tag Directory
 
 These tags are used to categorize projects, writeups, investigations, and security research.
@@ -95,22 +85,6 @@ Duplicate this section whenever you add a major project.
 | Tags | ![Web](https://img.shields.io/badge/Web-blue?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-orange?style=flat-square) |
 
 
-### Tools Used
-
-| Tool | Purpose |
-|---|---|
-| Splunk | Searching and correlating logs |
-| Sysmon | Process and network telemetry |
-| Wireshark | Network traffic analysis |
-| VirusTotal | Threat-intelligence lookup |
-
-### Key Findings
-
-- Finding one
-- Finding two
-- Finding three
-
-</details>
 
 ---
 
@@ -124,29 +98,6 @@ Duplicate this section whenever you add a major project.
 
 ---
 
-# 📊 GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=elgolemite&show_icons=true&hide_border=true" alt="GitHub statistics">
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgolemite&layout=compact&hide_border=true" alt="Most-used languages">
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Active%20Directory-Attack%20Paths-0078D4?style=flat-square">
-  <img src="https://img.shields.io/badge/Windows-Memory%20Forensics-purple?style=flat-square">
-  <img src="https://img.shields.io/badge/Malware-Analysis-red?style=flat-square">
-  <img src="https://img.shields.io/badge/Detection-Engineering-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Python-Security%20Automation-3776AB?style=flat-square&logo=python&logoColor=white">
-</p>
-
----
 
 # 📫 Connect With Me
 
