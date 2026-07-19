@@ -84,6 +84,7 @@ Duplicate this section whenever you add a major project.
 | Documentation | [Read documentation](DOCUMENTATION_LINK) |
 | Tags | ![Web](https://img.shields.io/badge/Web-blue?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-orange?style=flat-square) |
 
+</details>
 ---
 
 # 🏆 Achievements
