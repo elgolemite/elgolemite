@@ -86,8 +86,6 @@ Duplicate this section whenever you add a major project.
 
 ---
 
----
-
 # 🏆 Achievements
 
 | Achievement | Event or Organisation | Year | Evidence |
@@ -97,7 +95,6 @@ Duplicate this section whenever you add a major project.
 | Project Presentation | Organisation or University | 2026 | [View project](LINK) |
 
 ---
-
 
 # 📫 Connect With Me
 
