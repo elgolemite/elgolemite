@@ -1,4 +1,4 @@
-# Hi, I'm Asyraf 👋
+# Hi, I'm Asyraf 👋 (not finalized)
 
 <p>
   <img src="https://img.shields.io/badge/CTF-Player-red?style=for-the-badge">
